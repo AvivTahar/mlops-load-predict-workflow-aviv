@@ -17,4 +17,4 @@ jobs:
             context: .
             push: true
             tags: avivsimontahar/cictcd:${{ github.sha }}
-      # - name:
+      # - name: hello
